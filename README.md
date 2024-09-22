@@ -1,6 +1,14 @@
 # GXU-2024
 
-## Ideer til spil
+## Programmeringssprog
+- Scratch
+- Pygame
+- Processing.py
+- Roblox
+- Unity
+- Godot
+
+## Scratch
 1. Catch the X
 2. Snake
 3. Pong
